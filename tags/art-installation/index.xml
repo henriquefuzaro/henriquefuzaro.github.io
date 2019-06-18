@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art Installation on André Sbrocco Figueiredo</title>
+    <link>https://andresbrocco.github.io/tags/art-installation/</link>
+    <description>Recent content in Art Installation on André Sbrocco Figueiredo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>=&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://andresbrocco.github.io/tags/art-installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Audio-visuals in shared space as a metaphor for mindscapes</title>
+      <link>https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/</guid>
+      <description>&lt;p&gt;The Group &amp;lsquo;Perception, Action, and Interaction&amp;rsquo; at &lt;a href=&#34;https://www.nics.unicamp.br/&#34;&gt;NICS&lt;/a&gt; explores the interaction between humans and digital media; &amp;lsquo;Perception&amp;rsquo; stands for audio analysis, psychoacoustics and visual cognition; &amp;lsquo;Action&amp;rsquo; stands for designing sound and visual arts; &amp;lsquo;Interaction&amp;rsquo; stands for how humans interfaces with the digital environment.&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/Audio-visuals_in_shared_space_as_a_metaphor_for_mindscapes.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
+
+&lt;p&gt;The presented work is a prototype of the first project of the group. The concept is to build an interactive imersive environment where a performer can navigate through a sphere full of silent movie clips and interact with them. The navigation is controlled by the users hands and position in the room, while other body features control video and audio effects.&lt;/p&gt;
+
+&lt;p&gt;The audio is also composed in real time using granular synthesis and mixing musical themes associated with each clip. This combination creates a noisy and thematic atmosphere that resembles an antique silent movie cinema. A shared space is created using the network, so that many actors can perform in real time, each one from its own machine. This process is documented at &lt;a href=&#34;https://andresbrocco.github.io/publication/audio-visuals-in-shared-space-as-a-metaphor-for-mindscapes/&#34;&gt;this publication&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medooze</title>
+      <link>https://andresbrocco.github.io/project/medooze/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/medooze/</guid>
+      <description>&lt;p&gt;Medooze is a personal project developed by me and Gabriela Bittencourt, consisting of a smart lighting system. The algorithm developed by us analyses the music in real time to create synesthetic visual effects.&lt;/p&gt;
+
+&lt;p&gt;The installation was presented in a music festival: the audio from the DJ mixer was captured by an audio interface, and processed in a Pure Data patch. This patch simulated a fluid that was reacting to several audio features in real time.&lt;/p&gt;
+
+&lt;p&gt;The fluid positions were then mapped to a color palette, forming visual streams in a wave-like motion. Each particle of the fluid was then mapped to a corresponding Led in a strip. This information was sent through the network to a Raspberry Pi, which controlled 12 Led Strips.&lt;/p&gt;
+
+&lt;p&gt;&lt;video width=&#34;505&#34; height=&#34;364&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/medooze/Medooze_Demo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+(Music used in the demo video: So Let&amp;rsquo;s Begin - Kognitif)&lt;/p&gt;
+
+&lt;p&gt;The total of 60m of Led Strips were placed above the dance floor, streaming out from the DJ cabine. You can see the infrastructure in the pictures below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;tenda_branca.png&#34; alt=&#34;dance floor again&#34; style=&#34;width:80%&#34;&gt;
+&lt;img src=&#34;tenda_roxa.JPG&#34; alt=&#34;dance floor&#34; style=&#34;width:80%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

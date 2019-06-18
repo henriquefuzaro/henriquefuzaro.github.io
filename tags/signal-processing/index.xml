@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal Processing on André Sbrocco Figueiredo</title>
+    <link>https://andresbrocco.github.io/tags/signal-processing/</link>
+    <description>Recent content in Signal Processing on André Sbrocco Figueiredo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>=&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://andresbrocco.github.io/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chroma Jammer</title>
+      <link>https://andresbrocco.github.io/project/chroma-jammer/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/chroma-jammer/</guid>
+      <description>&lt;p&gt;ChromaJammer is personal project of a music visualization tool that &amp;ldquo;forces&amp;rdquo; synesthesia by associating colors with notes. The main goal is to assist the music learning process, by attaching vision and audition.&lt;/p&gt;
+
+&lt;p&gt;The ChromaJammer was written in the &lt;a href=&#34;http://puredata.info/&#34;&gt;PureData&lt;/a&gt; programming language. The patch gets the audio from an external source (mic or music player) and analyses which notes are being played. Each note has an associated color. The color scheme was based on the circle of fifths, since it arranges the notes in an interesting manner: the interval between adjacent notes is the most consonant possible. The circle of fifths is drawn alongside a representation of a guitar arm. When a note is identified, its respective frets lights up on the guitar arm.&lt;/p&gt;
+
+&lt;p&gt;As an amateur musician, I&amp;rsquo;ve always wanted to improvise on the guitar, but struggled in learning music theory. On the other hand, I found myself with the right knowledge to develop a tool to enhance my capabilities. The project is open-source and can be downloaded from my &lt;a href=&#34;https://github.com/andresbrocco/ChromaJammer&#34;&gt;GitHub repository&lt;/a&gt;. I hope more people enjoy the tool, and maybe some day I&amp;rsquo;ll go back to this project.&lt;/p&gt;
+
+&lt;p&gt;I have made a video presenting the patch and showing it in action!&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/chroma-jammer/ChromaJammer_Demo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
+</description>
+    </item>
+    
+  </channel>
+</rss>

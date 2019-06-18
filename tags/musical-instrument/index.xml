@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musical Instrument on André Sbrocco Figueiredo</title>
+    <link>https://andresbrocco.github.io/tags/musical-instrument/</link>
+    <description>Recent content in Musical Instrument on André Sbrocco Figueiredo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>=&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://andresbrocco.github.io/tags/musical-instrument/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>https://andresbrocco.github.io/project/bachelor-thesis/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/bachelor-thesis/</guid>
+      <description>&lt;p&gt;The Steel Tongue Drum is a recently invented musical instrument that consists of a curved and cutted steel plate, shown at the image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;Steel_Tongue_Drum.png&#34; alt=&#34;Steel Tongue Drum&#34; style=&#34;width:40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;The instrument is mainly handcrafted, so by the time of this research there wasn&amp;rsquo;t any study on its acoustic properties. For this reason, the idea of my bachelor thesis was to propose a scientific approach on designing this instrument.&lt;/p&gt;
+
+&lt;p&gt;The first step was to understand which mechanical characteristics determines the acoustic response. After some experiments, I have found that the interaction with the fluid is negligible, and the only relevant characteristics were the geometry and material of the instrument.&lt;/p&gt;
+
+&lt;p&gt;Therefore, the frequencies of the instruments notes can be determined by a simple modal analysis. The cover image of this page shows the displacement of one of the instruments vibration modes. You can take a look at the full report (in portuguese) at the &amp;ldquo;PDF&amp;rdquo; link.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

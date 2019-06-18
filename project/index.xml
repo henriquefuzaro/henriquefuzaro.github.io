@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on André Sbrocco Figueiredo</title>
+    <link>https://andresbrocco.github.io/project/</link>
+    <description>Recent content in Projects on André Sbrocco Figueiredo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>=&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://andresbrocco.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Audio-visuals in shared space as a metaphor for mindscapes</title>
+      <link>https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/</guid>
+      <description>&lt;p&gt;The Group &amp;lsquo;Perception, Action, and Interaction&amp;rsquo; at &lt;a href=&#34;https://www.nics.unicamp.br/&#34;&gt;NICS&lt;/a&gt; explores the interaction between humans and digital media; &amp;lsquo;Perception&amp;rsquo; stands for audio analysis, psychoacoustics and visual cognition; &amp;lsquo;Action&amp;rsquo; stands for designing sound and visual arts; &amp;lsquo;Interaction&amp;rsquo; stands for how humans interfaces with the digital environment.&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/Audio-visuals_in_shared_space_as_a_metaphor_for_mindscapes.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
+
+&lt;p&gt;The presented work is a prototype of the first project of the group. The concept is to build an interactive imersive environment where a performer can navigate through a sphere full of silent movie clips and interact with them. The navigation is controlled by the users hands and position in the room, while other body features control video and audio effects.&lt;/p&gt;
+
+&lt;p&gt;The audio is also composed in real time using granular synthesis and mixing musical themes associated with each clip. This combination creates a noisy and thematic atmosphere that resembles an antique silent movie cinema. A shared space is created using the network, so that many actors can perform in real time, each one from its own machine. This process is documented at &lt;a href=&#34;https://andresbrocco.github.io/publication/audio-visuals-in-shared-space-as-a-metaphor-for-mindscapes/&#34;&gt;this publication&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kinect Skeleton library for Processing</title>
+      <link>https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/</guid>
+      <description>&lt;p&gt;The Group &amp;lsquo;Perception, Action, and Interaction&amp;rsquo; at &lt;a href=&#34;https://www.nics.unicamp.br/&#34;&gt;NICS&lt;/a&gt; explores the interaction between humans and digital media; &amp;lsquo;Perception&amp;rsquo; stands for audio analysis, psychoacoustics and visual cognition; &amp;lsquo;Action&amp;rsquo; stands for designing sound and visual arts; &amp;lsquo;Interaction&amp;rsquo; stands for how humans interfaces with the digital environment. One ongoing research example is the sonification of human body movement with application purposes in music therapy.&lt;/p&gt;
+
+&lt;p&gt;One of the devices used by the laboratory to sense the body movements is the &lt;a href=&#34;https://developer.microsoft.com/en-us/windows/kinect&#34;&gt;Microsoft Kinect&lt;/a&gt;. Therefore, some projects rely on a robust tool to preprocess the incoming data and extract body movement features. My role is to develop that tool and make it available as an user friendly software for people with low level of knowledge in software development.&lt;/p&gt;
+
+&lt;p&gt;The main features implemented in the library available on my &lt;a href=&#34;https://github.com/andresbrocco/Processing_KinectV2_SkeletonTools&#34; &gt;github&lt;/a&gt; are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interface with KinectV2&lt;/li&gt;
+&lt;li&gt;Smooth skeleton&lt;/li&gt;
+&lt;li&gt;Calibrate for the floor position and room size&lt;/li&gt;
+&lt;li&gt;Extract body features&lt;/li&gt;
+&lt;li&gt;Send features through network via OSC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The video below is a brief demonstration of the library and its features.&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/KinectV2SkeletonToolsDemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Chroma Jammer</title>
+      <link>https://andresbrocco.github.io/project/chroma-jammer/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/chroma-jammer/</guid>
+      <description>&lt;p&gt;ChromaJammer is personal project of a music visualization tool that &amp;ldquo;forces&amp;rdquo; synesthesia by associating colors with notes. The main goal is to assist the music learning process, by attaching vision and audition.&lt;/p&gt;
+
+&lt;p&gt;The ChromaJammer was written in the &lt;a href=&#34;http://puredata.info/&#34;&gt;PureData&lt;/a&gt; programming language. The patch gets the audio from an external source (mic or music player) and analyses which notes are being played. Each note has an associated color. The color scheme was based on the circle of fifths, since it arranges the notes in an interesting manner: the interval between adjacent notes is the most consonant possible. The circle of fifths is drawn alongside a representation of a guitar arm. When a note is identified, its respective frets lights up on the guitar arm.&lt;/p&gt;
+
+&lt;p&gt;As an amateur musician, I&amp;rsquo;ve always wanted to improvise on the guitar, but struggled in learning music theory. On the other hand, I found myself with the right knowledge to develop a tool to enhance my capabilities. The project is open-source and can be downloaded from my &lt;a href=&#34;https://github.com/andresbrocco/ChromaJammer&#34;&gt;GitHub repository&lt;/a&gt;. I hope more people enjoy the tool, and maybe some day I&amp;rsquo;ll go back to this project.&lt;/p&gt;
+
+&lt;p&gt;I have made a video presenting the patch and showing it in action!&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/chroma-jammer/ChromaJammer_Demo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Medooze</title>
+      <link>https://andresbrocco.github.io/project/medooze/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/medooze/</guid>
+      <description>&lt;p&gt;Medooze is a personal project developed by me and Gabriela Bittencourt, consisting of a smart lighting system. The algorithm developed by us analyses the music in real time to create synesthetic visual effects.&lt;/p&gt;
+
+&lt;p&gt;The installation was presented in a music festival: the audio from the DJ mixer was captured by an audio interface, and processed in a Pure Data patch. This patch simulated a fluid that was reacting to several audio features in real time.&lt;/p&gt;
+
+&lt;p&gt;The fluid positions were then mapped to a color palette, forming visual streams in a wave-like motion. Each particle of the fluid was then mapped to a corresponding Led in a strip. This information was sent through the network to a Raspberry Pi, which controlled 12 Led Strips.&lt;/p&gt;
+
+&lt;p&gt;&lt;video width=&#34;505&#34; height=&#34;364&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/medooze/Medooze_Demo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+(Music used in the demo video: So Let&amp;rsquo;s Begin - Kognitif)&lt;/p&gt;
+
+&lt;p&gt;The total of 60m of Led Strips were placed above the dance floor, streaming out from the DJ cabine. You can see the infrastructure in the pictures below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;tenda_branca.png&#34; alt=&#34;dance floor again&#34; style=&#34;width:80%&#34;&gt;
+&lt;img src=&#34;tenda_roxa.JPG&#34; alt=&#34;dance floor&#34; style=&#34;width:80%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>https://andresbrocco.github.io/project/bachelor-thesis/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/bachelor-thesis/</guid>
+      <description>&lt;p&gt;The Steel Tongue Drum is a recently invented musical instrument that consists of a curved and cutted steel plate, shown at the image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;Steel_Tongue_Drum.png&#34; alt=&#34;Steel Tongue Drum&#34; style=&#34;width:40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;The instrument is mainly handcrafted, so by the time of this research there wasn&amp;rsquo;t any study on its acoustic properties. For this reason, the idea of my bachelor thesis was to propose a scientific approach on designing this instrument.&lt;/p&gt;
+
+&lt;p&gt;The first step was to understand which mechanical characteristics determines the acoustic response. After some experiments, I have found that the interaction with the fluid is negligible, and the only relevant characteristics were the geometry and material of the instrument.&lt;/p&gt;
+
+&lt;p&gt;Therefore, the frequencies of the instruments notes can be determined by a simple modal analysis. The cover image of this page shows the displacement of one of the instruments vibration modes. You can take a look at the full report (in portuguese) at the &amp;ldquo;PDF&amp;rdquo; link.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VUPH</title>
+      <link>https://andresbrocco.github.io/project/vuph/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/vuph/</guid>
+      <description>&lt;p&gt;In this project, I designed the mechanical parts of an innovative vehicle. The concept of the prototype is a Hybrid Propulsion Urban Individual Vehicle. This was a confidential design, therefore I can&amp;rsquo;t give much information about it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formula Student/SAE - 2017</title>
+      <link>https://andresbrocco.github.io/project/formulasae-2017/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/formulasae-2017/</guid>
+      <description>
+
+&lt;p&gt;As a former member, I supported the new team leaders with advices in general decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;team.jpg&#34; alt=&#34;2017 Team&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;h3 id=&#34;2017-formula-sae-brasil-40-teams&#34;&gt;2017 - Formula SAE Brasil (40 teams):&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position in the Cost and Manufaturing Event&lt;/li&gt;
+&lt;li&gt;5&lt;sup&gt;th&lt;/sup&gt; Position in the Design Event&lt;/li&gt;
+&lt;li&gt;10&lt;sup&gt;th&lt;/sup&gt; Position in the Presentation Event&lt;/li&gt;
+&lt;li&gt;10&lt;sup&gt;th&lt;/sup&gt; Position in the Autocross Event&lt;/li&gt;
+&lt;li&gt;13&lt;sup&gt;th&lt;/sup&gt; Position Overall&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formula Student/SAE - 2016</title>
+      <link>https://andresbrocco.github.io/project/formulasae-2016/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/formulasae-2016/</guid>
+      <description>
+
+&lt;p&gt;In the fourth year working on the Formula Student Team, I managed the interaction between the divisions of suspension, steering, brakes and aerodynamics, from the design phase to the manufacturing and testing phases.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;team.jpg&#34; alt=&#34;Fsae Unicamp Team&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;h3 id=&#34;2016-formula-sae-brasil-40-teams&#34;&gt;2016 - Formula SAE Brasil (40 teams):&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Cost and Manufaturing Event&lt;/li&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Acceleration Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position in the Design Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position in the SkidPad Event&lt;/li&gt;
+&lt;li&gt;5&lt;sup&gt;th&lt;/sup&gt; Position in the Presentation Event&lt;/li&gt;
+&lt;li&gt;5&lt;sup&gt;th&lt;/sup&gt; Position in the Autocross Event&lt;/li&gt;
+&lt;li&gt;4&lt;sup&gt;th&lt;/sup&gt; Position Overall&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formula Student/SAE - 2015</title>
+      <link>https://andresbrocco.github.io/project/formulasae-2015/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/formulasae-2015/</guid>
+      <description>
+
+&lt;p&gt;In the third year working on the Formula Student Team, I managed the interaction between the divisions of suspension, steering, brakes and aerodynamics, from the design phase to the manufacturing and testing phases.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/fJvhUmk1ZYo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;team.jpg&#34; alt=&#34;Fsae Unicamp Team&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;h3 id=&#34;2015-formula-sae-brasil-40-teams&#34;&gt;2015 - Formula SAE Brasil (40 teams):&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Presentation Event&lt;/li&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Acceleration Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position in the Design Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position in the SkidPad Event&lt;/li&gt;
+&lt;li&gt;4&lt;sup&gt;th&lt;/sup&gt; Position in the Cost and Manufaturing Event&lt;/li&gt;
+&lt;li&gt;5&lt;sup&gt;th&lt;/sup&gt; Position in the Autocross Event&lt;/li&gt;
+&lt;li&gt;6&lt;sup&gt;th&lt;/sup&gt; Position Overall&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formula Student/SAE - 2014</title>
+      <link>https://andresbrocco.github.io/project/formulasae-2014/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/formulasae-2014/</guid>
+      <description>
+
+&lt;p&gt;In my second year working on this project, I led the suspension division, keeping the members motivated and connected with the project. I managed team resources through the design, manufacturing and testing phases.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;f2014.jpg&#34; alt=&#34;F2014&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;h3 id=&#34;2014-formula-sae-brasil-40-teams&#34;&gt;2014 - Formula SAE Brasil (40 teams):&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Cost and Manufaturing Event&lt;/li&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Fuel Economy Event&lt;/li&gt;
+&lt;li&gt;3&lt;sup&gt;rd&lt;/sup&gt; Position in the Design Event&lt;/li&gt;
+&lt;li&gt;3&lt;sup&gt;rd&lt;/sup&gt; Position in the Acceleration Event&lt;/li&gt;
+&lt;li&gt;4&lt;sup&gt;th&lt;/sup&gt; Position in the SkidPad Event&lt;/li&gt;
+&lt;li&gt;4&lt;sup&gt;rd&lt;/sup&gt; Position in the Endurance Event&lt;/li&gt;
+&lt;li&gt;5&lt;sup&gt;th&lt;/sup&gt; Position in the Autocross Event&lt;/li&gt;
+&lt;li&gt;5&lt;sup&gt;th&lt;/sup&gt; Position in the Presentation Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position Overall&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2015-formula-sae-west-michigan-usa-120-teams&#34;&gt;2015 - Formula SAE West - Michigan, USA (120 teams):&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3&lt;sup&gt;rd&lt;/sup&gt; Position in the Acceleration Event&lt;/li&gt;
+&lt;li&gt;4&lt;sup&gt;th&lt;/sup&gt; Position in the Design Event&lt;/li&gt;
+&lt;li&gt;19&lt;sup&gt;th&lt;/sup&gt; Position in the SkidPad Event&lt;/li&gt;
+&lt;li&gt;20&lt;sup&gt;th&lt;/sup&gt; Position in the Cost and Manufacturing Event&lt;/li&gt;
+&lt;li&gt;24&lt;sup&gt;th&lt;/sup&gt; Position in the Presentation Event&lt;/li&gt;
+&lt;li&gt;49&lt;sup&gt;th&lt;/sup&gt; Position in the Autocross Event&lt;/li&gt;
+&lt;li&gt;38&lt;sup&gt;th&lt;/sup&gt; Position Overall&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formula Student/SAE - 2013</title>
+      <link>https://andresbrocco.github.io/project/formulasae-2013/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/formulasae-2013/</guid>
+      <description>
+
+&lt;p&gt;In my first year of participation on the Formula Student/SAE team, I was responsible for supporting the team with manual labor while learning how the project and the team work through the full year cycle.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;f2013.jpg&#34; alt=&#34;F2013 at Formula SAE Brasil&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;h3 id=&#34;2013-formula-sae-brasil-40-teams&#34;&gt;2013 - Formula SAE Brasil (40 teams):&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Presentation Event&lt;/li&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;/sup&gt; Position in the Acceleration Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position in the SkidPad Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position in the Endurance Event&lt;/li&gt;
+&lt;li&gt;3&lt;sup&gt;rd&lt;/sup&gt; Position in the Design Event&lt;/li&gt;
+&lt;li&gt;3&lt;sup&gt;rd&lt;/sup&gt; Position in the Cost and Manufaturing Event&lt;/li&gt;
+&lt;li&gt;3&lt;sup&gt;rd&lt;/sup&gt; Position in the Autocross Event&lt;/li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;/sup&gt; Position Overall&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

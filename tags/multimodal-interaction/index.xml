@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal Interaction on André Sbrocco Figueiredo</title>
+    <link>https://andresbrocco.github.io/tags/multimodal-interaction/</link>
+    <description>Recent content in Multimodal Interaction on André Sbrocco Figueiredo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>=&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://andresbrocco.github.io/tags/multimodal-interaction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Audio-visuals in shared space as a metaphor for mindscapes</title>
+      <link>https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/</guid>
+      <description>&lt;p&gt;The Group &amp;lsquo;Perception, Action, and Interaction&amp;rsquo; at &lt;a href=&#34;https://www.nics.unicamp.br/&#34;&gt;NICS&lt;/a&gt; explores the interaction between humans and digital media; &amp;lsquo;Perception&amp;rsquo; stands for audio analysis, psychoacoustics and visual cognition; &amp;lsquo;Action&amp;rsquo; stands for designing sound and visual arts; &amp;lsquo;Interaction&amp;rsquo; stands for how humans interfaces with the digital environment.&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/Audio-visuals_in_shared_space_as_a_metaphor_for_mindscapes.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
+
+&lt;p&gt;The presented work is a prototype of the first project of the group. The concept is to build an interactive imersive environment where a performer can navigate through a sphere full of silent movie clips and interact with them. The navigation is controlled by the users hands and position in the room, while other body features control video and audio effects.&lt;/p&gt;
+
+&lt;p&gt;The audio is also composed in real time using granular synthesis and mixing musical themes associated with each clip. This combination creates a noisy and thematic atmosphere that resembles an antique silent movie cinema. A shared space is created using the network, so that many actors can perform in real time, each one from its own machine. This process is documented at &lt;a href=&#34;https://andresbrocco.github.io/publication/audio-visuals-in-shared-space-as-a-metaphor-for-mindscapes/&#34;&gt;this publication&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kinect Skeleton library for Processing</title>
+      <link>https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/</guid>
+      <description>&lt;p&gt;The Group &amp;lsquo;Perception, Action, and Interaction&amp;rsquo; at &lt;a href=&#34;https://www.nics.unicamp.br/&#34;&gt;NICS&lt;/a&gt; explores the interaction between humans and digital media; &amp;lsquo;Perception&amp;rsquo; stands for audio analysis, psychoacoustics and visual cognition; &amp;lsquo;Action&amp;rsquo; stands for designing sound and visual arts; &amp;lsquo;Interaction&amp;rsquo; stands for how humans interfaces with the digital environment. One ongoing research example is the sonification of human body movement with application purposes in music therapy.&lt;/p&gt;
+
+&lt;p&gt;One of the devices used by the laboratory to sense the body movements is the &lt;a href=&#34;https://developer.microsoft.com/en-us/windows/kinect&#34;&gt;Microsoft Kinect&lt;/a&gt;. Therefore, some projects rely on a robust tool to preprocess the incoming data and extract body movement features. My role is to develop that tool and make it available as an user friendly software for people with low level of knowledge in software development.&lt;/p&gt;
+
+&lt;p&gt;The main features implemented in the library available on my &lt;a href=&#34;https://github.com/andresbrocco/Processing_KinectV2_SkeletonTools&#34; &gt;github&lt;/a&gt; are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interface with KinectV2&lt;/li&gt;
+&lt;li&gt;Smooth skeleton&lt;/li&gt;
+&lt;li&gt;Calibrate for the floor position and room size&lt;/li&gt;
+&lt;li&gt;Extract body features&lt;/li&gt;
+&lt;li&gt;Send features through network via OSC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The video below is a brief demonstration of the library and its features.&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/KinectV2SkeletonToolsDemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
+</description>
+    </item>
+    
+  </channel>
+</rss>
