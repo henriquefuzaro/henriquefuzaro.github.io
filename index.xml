@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel> 
+  <channel>
     <title>Henrique Fuzaro Gomes</title>
     <link>https://henriquefuzaro.github.io/</link>
     <description>Recent content on Henrique
@@ -9,17 +9,17 @@ Fuzaro</description>
     <language>en-us</language>
     <copyright>=&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 26 Mar 2019 00:00:00 -0300</lastBuildDate>
-    
-	    <atom:link href="https://andresbrocco.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-        
+
+	    <atom:link href="https://henriquefuzaro.github.io/index.xml" rel="self" type="application/rss+xml" />
+
+
+
       <item>
       <title>Formula Student/SAE - 2017</title>
-      <link>https://andresbrocco.github.io/project/formulasae-2017/</link>
+      <link>https://henriquefuzaro.github.io/project/formulasae-2017/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andresbrocco.github.io/project/formulasae-2017/</guid>
+
+      <guid>https://henriquefuzaro.github.io/project/formulasae-2017/</guid>
       <description>
 
 &lt;p&gt;As a former member, I supported the new team leaders with advices in general decisions.&lt;/p&gt;
@@ -39,13 +39,13 @@ Fuzaro</description>
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Formula Student/SAE - 2016</title>
-      <link>https://andresbrocco.github.io/project/formulasae-2016/</link>
+      <link>https://henriquefuzaro.github.io/project/formulasae-2016/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andresbrocco.github.io/project/formulasae-2016/</guid>
+
+      <guid>https://henriquefuzaro.github.io/project/formulasae-2016/</guid>
       <description>
 
 &lt;p&gt;In the fourth year working on the Formula Student Team, I managed the interaction between the divisions of suspension, steering, brakes and aerodynamics, from the design phase to the manufacturing and testing phases.&lt;/p&gt;
@@ -67,13 +67,13 @@ Fuzaro</description>
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Formula Student/SAE - 2015</title>
-      <link>https://andresbrocco.github.io/project/formulasae-2015/</link>
+      <link>https://henriquefuzaro.github.io/project/formulasae-2015/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andresbrocco.github.io/project/formulasae-2015/</guid>
+
+      <guid>https://henriquefuzaro.github.io/project/formulasae-2015/</guid>
       <description>
 
 &lt;p&gt;In the third year working on the Formula Student Team, I managed the interaction between the divisions of suspension, steering, brakes and aerodynamics, from the design phase to the manufacturing and testing phases.&lt;/p&gt;
@@ -101,13 +101,13 @@ Fuzaro</description>
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Formula Student/SAE - 2014</title>
-      <link>https://andresbrocco.github.io/project/formulasae-2014/</link>
+      <link>https://henriquefuzaro.github.io/project/formulasae-2014/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andresbrocco.github.io/project/formulasae-2014/</guid>
+
+      <guid>https://henriquefuzaro.github.io/project/formulasae-2014/</guid>
       <description>
 
 &lt;p&gt;In my second year working on this project, I led the suspension division, keeping the members motivated and connected with the project. I managed team resources through the design, manufacturing and testing phases.&lt;/p&gt;
@@ -143,13 +143,13 @@ Fuzaro</description>
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Formula Student/SAE - 2013</title>
-      <link>https://andresbrocco.github.io/project/formulasae-2013/</link>
+      <link>https://henriquefuzaro.github.io/project/formulasae-2013/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andresbrocco.github.io/project/formulasae-2013/</guid>
+
+      <guid>https://henriquefuzaro.github.io/project/formulasae-2013/</guid>
       <description>
 
 &lt;p&gt;In my first year of participation on the Formula Student/SAE team, I was responsible for supporting the team with manual labor while learning how the project and the team work through the full year cycle.&lt;/p&gt;
@@ -172,6 +172,6 @@ Fuzaro</description>
 &lt;/ul&gt;
 </description>
     </item>
-       
+
   </channel>
 </rss>
